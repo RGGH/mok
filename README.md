@@ -18,4 +18,4 @@
 
 ---
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/RGGH/mok/blob/main/screenshot.png)
