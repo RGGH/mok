@@ -1,4 +1,4 @@
-❯ tree -L 3
+```❯ tree -L 3
 .
 ├── app
 │   ├── fetch_www.py
@@ -13,4 +13,4 @@
     │   └── test_bcd.cpython-310-pytest-7.4.3.pyc
     └── test_bcd.py
 
-4 directories, 8 files
+4 directories, 8 files```
