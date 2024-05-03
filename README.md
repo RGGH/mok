@@ -1,3 +1,5 @@
+![screenshot](https://github.com/RGGH/mok/blob/main/screenshot.png)
+
 ```
 ❯ tree -L 3
 .
@@ -16,6 +18,6 @@
 
 4 directories, 8 files```
 
----
 
-![screenshot](https://github.com/RGGH/mok/blob/main/screenshot.png)
+
+
