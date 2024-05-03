@@ -16,11 +16,12 @@
     │   └── test_bcd.cpython-310-pytest-7.4.3.pyc
     └── test_bcd.py
 
-4 directories, 8 files```
+4 directories, 8 files
+
 
 ---
 
-``` if pytest is still unable to find the app module. To fix this issue, we can try a few different approaches:
+if pytest is still unable to find the app module. To fix this issue, we can try a few different approaches:
 
 Check Project Structure: Ensure that the app package is structured correctly within your project directory. It should have an __init__.py file to be recognized as a Python package.
 
