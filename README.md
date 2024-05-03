@@ -18,9 +18,7 @@
     │   └── test_bcd.cpython-310-pytest-7.4.3.pyc
     └── test_bcd.py
 
-4 directories, 8 files```
-
-
+4 directories, 8 files
 
 
 ```
